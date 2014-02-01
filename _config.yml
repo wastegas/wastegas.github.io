@@ -1,0 +1,4 @@
+name: My Github page
+markdown: redcarpet
+pygments: true
+baseurl: .
