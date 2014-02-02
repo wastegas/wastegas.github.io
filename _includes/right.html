@@ -1,15 +1,19 @@
-<h4>About</h4>
-    <ul>
+<div class="sidebar-module">
+    <h4>About</h4>
+    <ol class="list-unstyled">
         <li><a href="https://github.com/wastegas/">My github</a></li>
         <li><a href="http://twitter.com/wastegas">Follow me</a></li>
         <li><a href="https://github.com/wastegas/wastegas.github.io">source</a></li>
     </ul>
-<h4>Archives</h4>
-    <ul>
-        {% for post in site.posts %}
+</div>
+<div class="sidebar-module">
+    <h4>Archives</h4>
+    <ol class="list-unstyled">
+    {% for post in site.posts %}
         <li class="posts">
-            <a href="{{ post.url }}">{{ post.date | date: %d %B %y }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
-        {% endfor %}
+    {% endfor %}
     </ul>
+</div>
 
