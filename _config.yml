@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 baseurl: /
 permalink: pretty
+excerpt_strip_p_tag: true
