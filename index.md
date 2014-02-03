@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Wastegas Github Page
+title: Wastegas GitHub Page
 ---
