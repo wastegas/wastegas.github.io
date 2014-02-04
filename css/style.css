@@ -2,6 +2,14 @@ body {
     margin-top: 50px;
 }
 
+.navbar {
+    padding-right: 100px;
+}
+
+.navbar-brand {
+    padding-left: 70px;
+}
+
 p {
     text-align: justify;
 }
