@@ -1,12 +1,14 @@
 {% include head.html %}
 
 <div class="container">
+    <div class="blog-header">
+        <h1 class="blog-title">{{ page.title }}</h1>
+    </div>  
     <div class="row">
         <div class="col-md-8 blog-main">
             <div class="blog-post">
-                <h2 class="blog-post-title">{{ page.title }}</h2>
-                    <p class="blog-post-meta">{{ page.date | date_to_string }}</p>
-                        {{ content }}
+                <p class="blog-post-meta">{{ page.date | date_to_string }}</p>
+                    {{ content }}
             </div><!--  blog-post-->
             </div><!-- col-md-8-->
             <div class="col-md-4">
