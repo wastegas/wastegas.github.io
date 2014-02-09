@@ -29,6 +29,7 @@ body {
 
 p {
     text-align: justify;
+    line-height: 2.0;
 }
 
 /* post main */
