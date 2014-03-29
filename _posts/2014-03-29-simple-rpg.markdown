@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple command line RPG
-date: 214-03-29 11:36:00
+date: 2014-03-29 11:36:00
 categories: xcode github rpg c++ tips
 ---
 
