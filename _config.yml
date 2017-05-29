@@ -1,5 +1,5 @@
 name: My Github page
-markdown: redcarpet
+markdown: kramdown 
 pygments: true
 baseurl: /
 permalink: pretty
