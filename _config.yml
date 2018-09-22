@@ -1,6 +1,6 @@
 name: My Github page
 markdown: kramdown 
 highlighter: rouge
-baseurl: /
+baseurl: ""
 permalink: pretty
 excerpt_strip_p_tag: true
