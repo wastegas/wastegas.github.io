@@ -4,7 +4,7 @@ title: Site update
 date: 2020-12-29 20:40:00
 categories: 
 ---
-I had to redo my PC and unforunately, I can't run my page locally anymore. I'm thinking it's a version issue since it's been two months since I touched this site. Oh well..
+I had to redo my PC and unforunately, I can't run my page locally anymore. I'm thinking it's a version issue since it's been two years since I touched this site. Oh well..
 ```ruby
 $ bundle exe jekyll serve
 Traceback (most recent call last):
